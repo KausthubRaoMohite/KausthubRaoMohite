@@ -17,9 +17,9 @@ Professional protein shake enthusiast and a master of moving circular blocks of 
 
 | Languages              | Frameworks & Tools         | Databases & Others     |
 |------------------------|----------------------------|------------------------|
-| Java ☕                | Spring Boot 🌱            | SQL 🗄️                 |
-| Kotlin 🤖              | Flutter 📱                | PostgreSQL, MySQL      |
-| C++                    | Docker 🐳                  | Redis                  |
+| Java                   | Spring Boot                | SQL                    |
+| Kotlin                 | Flutter                    | PostgreSQL, MySQL      |
+| C++                    | Docker                     | Redis                  |
 | Hibernate, JPA         | Git & GitHub               | Linux                  |
 | Maven, Gradle          | REST APIs, GraphQL         |
 
