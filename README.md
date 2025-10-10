@@ -29,7 +29,6 @@ Plus I like to code too, hell yeah!
 
 - My ideal morning starts with a protein shake and a successful code compile
 - A whole repository of brainrot, I could go all day
-- pls work pls work pls work pls work
 
 ---
 Thanks for stopping by! Feel free to connect, collaborate, or just share your favorite protein shake recipe! 
