@@ -6,7 +6,7 @@ Plus I like to code too, hell yeah!
 
 ## About Me:
 
-- Powered by protein shakes and endless curiosity 💪🥤
+- Powered by protein shakes and endless curiosity 💪
 - Fluent in Java, Flutter, C++, and brainrot 💀
 - Coding enjoyer 👍
 
