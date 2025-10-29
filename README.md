@@ -21,7 +21,7 @@ Plus I like to code too, hell yeah!
 | Kotlin                 | Flutter                    | PostgreSQL, MySQL      |
 | C++                    | Docker                     | Redis                  |
 | Hibernate, JPA         | Git & GitHub               | Linux                  |
-| Maven, Gradle          | REST APIs, GraphQL         |
+| Maven                  | REST APIs                  |
 
 ---
 
