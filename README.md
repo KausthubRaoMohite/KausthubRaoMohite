@@ -1,4 +1,4 @@
-# 👋Hello, I'm Kausthub
+# 👋Hello, I'm Kausthub!!
 
 Professional protein shake enthusiast and a master of moving circular blocks of solid metal around (aka, powerlifting).
 Plus I like to code too, hell yeah!
