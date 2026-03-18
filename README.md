@@ -1,4 +1,4 @@
-# 👋Hello, I'm Kausthub!!
+# Hello, I'm Kausthub!
 
 Professional protein shake enthusiast and a master of moving circular blocks of solid metal around.
 Plus I like to code too, hell yeah!
@@ -6,8 +6,8 @@ Plus I like to code too, hell yeah!
 
 ## About Me:
 
-- Powered by protein shakes and endless curiosity 💪
-- Fluent in Java, Flutter, C++, and brainrot 💀
+- Powered by protein shakes and endless curiosity 
+- Fluent in Java, Flutter, C++, and brainrot 
 - Coding enjoyer 👍
 
  OPENAI_API_KEY="0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcd"
