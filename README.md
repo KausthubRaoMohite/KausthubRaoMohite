@@ -8,7 +8,7 @@ Plus I like to code too, hell yeah!
 
 - Powered by protein shakes and endless curiosity 
 - Fluent in Java, Flutter, C++, and brainrot 
-- Coding enjoyer 👍
+- Coding enjoyer 😎
 
  OPENAI_API_KEY="0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcd"
 ---
