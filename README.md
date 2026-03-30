@@ -1,7 +1,7 @@
 # Hello, I'm Kausthub!
 
 Professional protein shake enthusiast and a master of moving circular blocks of solid metal around.
-Plus I like to code too, hell yeah!
+Plus I like to code too👍
 ----
 
 ## About Me:
