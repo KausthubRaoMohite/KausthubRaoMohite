@@ -10,7 +10,7 @@ Plus I like to code too👍
 - Fluent in Java, Flutter, C++, and brainrot 
 - A backend developer
 
- OPENAI_API_KEY="0123456789abcdef0123456789abcdef0123456789abcdef0123456789egUs"
+ OPENAI_API_KEY="0123456789abcdef0123456789abcdef0123456789LMaOaf0123456789egUs"
 ---
 
 ## My Tech Stack
