@@ -9,8 +9,6 @@ Plus, I like to code too👍
 - Powered by protein shakes and endless curiosity 
 - Fluent in Java, Flutter, C++, and brainrot 
 - A backend developer
-
- OPENAI_API_KEY="0133456789abcdef0123456789abcdef0123456789LMaOaf0123456789egUs"
 ---
 
 ## My Tech Stack
