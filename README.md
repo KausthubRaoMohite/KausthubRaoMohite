@@ -25,8 +25,9 @@ Plus, I like to code too
 
 ## Fun Facts(maybe)🤷
 
-- My ideal morning starts with a protein shake and a successful code compile
-- A whole repository of brainrot, I could go all day!
+- I’m interested in both engineering and visual storytelling, which is probably why software + video editing keeps showing up in my projects.
+- I like understanding how things work all the way down to the metal.
+- Currently teaching a computer to draw masks around things
 
 ---
 Thanks for stopping by! Feel free to connect, collaborate, or just share your favorite protein shake recipe!!!
